@@ -28,8 +28,6 @@ When you unplug your laptop, apps like Discord or Nvidia Broadcast may continue 
 
    <img src="https://github.com/user-attachments/assets/aa1e03b1-419b-4d14-ab31-5a898fb40dde" alt="Start In Directory" width="400"/>
 
----
-
 ## 🛑 Apps Currently Closed by Default
 
 <details>
@@ -51,11 +49,8 @@ When you unplug your laptop, apps like Discord or Nvidia Broadcast may continue 
 
 </details>
 
-
 > \[!NOTE]
 > More apps will be added in future updates!
-
----
 
 ## ➕ Want to Add More Apps?
 

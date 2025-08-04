@@ -32,10 +32,25 @@ When you unplug your laptop, apps like Discord or Nvidia Broadcast may continue 
 
 ## 🛑 Apps Currently Closed by Default
 
-* Discord
-* Steam
-* Epic Games Launcher
-* Nvidia Broadcast
+<details>
+  <summary>Click to show list</summary>
+
+### 🧠 Productivity / Communication
+- Spotify  
+- Microsoft Teams  
+- Zoom  
+- OneDrive  
+- Discord  
+
+### 🎮 Gaming / Game Launchers
+- Steam  
+- Epic Games Launcher  
+- EA Applications  
+- NVIDIA Broadcast  
+- Riot Client Services  
+
+</details>
+
 
 > \[!NOTE]
 > More apps will be added in future updates!
